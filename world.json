@@ -1,0 +1,134 @@
+{
+  "title": "Les Terres d'Antaroth",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "DDB Backgrounds",
+      "name": "ddb-les-terres-dantaroth-backgrounds",
+      "type": "Item",
+      "path": "packs/ddb-les-terres-dantaroth-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-les-terres-dantaroth-classes",
+      "type": "Item",
+      "path": "packs/ddb-les-terres-dantaroth-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Subclasses",
+      "name": "ddb-les-terres-dantaroth-subclasses",
+      "type": "Item",
+      "path": "packs/ddb-les-terres-dantaroth-subclasses.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-les-terres-dantaroth-class-features",
+      "type": "Item",
+      "path": "packs/ddb-les-terres-dantaroth-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-les-terres-dantaroth-feats",
+      "type": "Item",
+      "path": "packs/ddb-les-terres-dantaroth-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-les-terres-dantaroth-items",
+      "type": "Item",
+      "path": "packs/ddb-les-terres-dantaroth-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-les-terres-dantaroth-monsters",
+      "type": "Actor",
+      "path": "packs/ddb-les-terres-dantaroth-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Vehicles",
+      "name": "ddb-les-terres-dantaroth-vehicles",
+      "type": "Actor",
+      "path": "packs/ddb-les-terres-dantaroth-vehicles.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-les-terres-dantaroth-races",
+      "type": "Item",
+      "path": "packs/ddb-les-terres-dantaroth-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-les-terres-dantaroth-racial-traits",
+      "type": "Item",
+      "path": "packs/ddb-les-terres-dantaroth-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Spells",
+      "name": "ddb-les-terres-dantaroth-spells",
+      "type": "Item",
+      "path": "packs/ddb-les-terres-dantaroth-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-les-terres-dantaroth-tables",
+      "type": "RollTable",
+      "path": "packs/ddb-les-terres-dantaroth-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-les-terres-dantaroth-override",
+      "type": "Item",
+      "path": "packs/ddb-les-terres-dantaroth-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "background": "Antaroth.jpg",
+  "coreVersion": "10.279",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.0-alpha3",
+  "id": "les-terres-dantaroth",
+  "compatibility": {
+    "verified": "10.279"
+  },
+  "description": "<p></p>"
+}
